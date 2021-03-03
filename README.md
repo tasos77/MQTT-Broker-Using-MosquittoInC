@@ -1,4 +1,4 @@
-# MQTT Broker using Mosquitto with C
+# MQTT Broker using Mosquitto with C language
 
 ## How to use:
 
